@@ -1,5 +1,5 @@
  [![Docker Stars](https://img.shields.io/docker/stars/intershopde/docker-helm.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-helm/stars/count/) [![Docker pulls](https://img.shields.io/docker/pulls/intershopde/docker-helm.svg?style=plastic)](https://registry.hub.docker.com/v2/repositories/intershopde/docker-helm/)
-[![Docker Automated build](https://img.shields.io/docker/automated/intershopde/docker-helm.svg?maxAge=2592000?style=plastic)](https://github.com/IntershopCommunicationsAG/docker-helm/)
+[![Docker Automated build](https://img.shields.io/docker/cloud/build/intershopde/docker-helm.svg?maxAge=2592000?style=plastic)](https://github.com/IntershopCommunicationsAG/docker-helm/)
 
 # Helm Docker Container
 
