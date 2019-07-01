@@ -19,7 +19,7 @@ LABEL maintainer="https://github.com/IntershopCommunicationsAG/docker-helm" \
       license="Apache License 2.0" \
       vendor="Intershop Communications AG"
 
-RUN apk add --no-cache curl
+RUN apk add --no-cache curl git
 
 #secure - SSL ca certificates
 RUN apk update \
